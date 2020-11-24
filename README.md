@@ -6,8 +6,9 @@
 bundle it up.
 
 
-* If you bundle with (" parcel index.html") in the terminal  youll see a map on the browser.
-
-* Youll have to install parcel package first if you havent https://parceljs.org/getting_started.html
 
 
+
+
+
+* live demo here  https://aridaniel.github.io/Map-parcel-npmpackage/index.html
